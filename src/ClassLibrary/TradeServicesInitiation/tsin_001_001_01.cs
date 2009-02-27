@@ -57,7 +57,7 @@ namespace i20022.tsin00100101
     /// <summary>
     /// <b>Document</b> is the root class of the ISO 20022 message
     /// with id tsin.001.001.01 name InvoiceFinancingRequestV01 from Trade Services Initiation business area.
-    /// Repository:R 6.8.0.1 v492 - 4 July 2008
+    /// Repository:R 6.14.4.1 v524 - 8 December 2008
     /// </summary>
     [SerializableAttribute()]
     [DebuggerStepThroughAttribute()]
