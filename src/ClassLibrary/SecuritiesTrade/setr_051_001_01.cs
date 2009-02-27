@@ -57,7 +57,7 @@ namespace i20022.setr05100101
     /// <summary>
     /// <b>Document</b> is the root class of the ISO 20022 message
     /// with id setr.051.001.01 name RedemptionOrderConfirmationCancellationInstructionV01 from Securities Trade business area.
-    /// Repository:R 6.8.0.1 v492 - 4 July 2008
+    /// Repository:R 6.14.4.1 v524 - 8 December 2008
     /// </summary>
     [SerializableAttribute()]
     [DebuggerStepThroughAttribute()]
