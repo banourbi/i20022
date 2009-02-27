@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription( "i20022 Trade Services Initiation classes" )]
 [assembly: AssemblyConfiguration( "" )]
 [assembly: AssemblyCompany( "i20022.com" )]
-[assembly: AssemblyProduct("i20022 (Repository:R 6.8.0.1 v492 - 4 July 2008)")]
-[assembly: AssemblyCopyright( "Copyright © i20022.com 2008" )]
+[assembly: AssemblyProduct("i20022 (Repository:R 6.14.4.1 v524 - 8 December 2008)")]
+[assembly: AssemblyCopyright( "Copyright © 2008-2009 i20022.com " )]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]
 
@@ -33,4 +33,4 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion( "1.0.0.0" )]
-[assembly: AssemblyFileVersion( "1.0.0.1" )]
+[assembly: AssemblyFileVersion( "1.0.0.2" )]
